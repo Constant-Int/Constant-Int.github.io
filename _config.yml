@@ -22,9 +22,10 @@ author: "liedown"
 navbar-links:
   About Me: "aboutme"
   #Research:
-  #  - Publications: "publications"
+  #  - 
+  Publications: "publications"
   #  - Talks: "talks"
-  #Contact: "contact"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
