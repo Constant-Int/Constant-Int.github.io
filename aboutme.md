@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Weiyuan Gong (龚维元). Before entering Harvard, I got my B.E. from Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by Prof. [Dong-Ling Deng](https://iiis.tsinghua.edu.cn/zh/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/). Here is my CV.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+## Education
 
-### My story
+- Sept 2023- Present, Graduate student, SEAS, Harvard University.
+- Sept 2019- June 2023, B.E., IIIS, Tsinghua University.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Research Interest
+
+
+- Quantum information
+- Optimization & Machine learning theory
+- Quantum algorithms & Quantum complexity theory
+- Quantum machine learning
+
+## Miscellaneous
+
+I enjoy driving, swimming, and playing table tennis. I was the leader and the co-founder of the table tennis team for IIIS. Appointments for playing table tennis are strongly welcomed!
