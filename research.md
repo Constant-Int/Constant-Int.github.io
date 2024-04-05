@@ -24,7 +24,7 @@ cover-img: /assets/img/scene_4.jpg
 ### Manuscripts
 
 - Sitan Chen, Weiyuan Gong, and Qi Ye, "Optimal tradeoffs for estimating Pauli observables", submitted, 2024. 
-- Zhihan Zhang*, Weiyuan Gong*, Weikang Li, and Dong-Ling Deng, "Quantum-classical separations in shallow-circuit-based learning with and without noise", submitted, 2023.
+- Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng, "Quantum-classical separations in shallow-circuit-based learning with and without noise", submitted, 2023.
 
 
 ## Academic Service:
