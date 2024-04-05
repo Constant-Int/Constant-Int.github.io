@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-cover-img: /assets/img/scene_1.jpg
+cover-img: /assets/img/scene_4.jpg
 ---
 ## Papers
 
