@@ -18,7 +18,14 @@ cover-img: /assets/img/scene_4.jpg
 
 - Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li, ["A Theory of Digital Quantum Simulations in the Low-Energy Subspace"](https://arxiv.org/abs/2312.08867), arxiv:2312.08867, 2023.
 - Sitan Chen, Weiyuan Gong, ["Efficient Pauli channel estimation with logarithmic quantum memory"](https://arxiv.org/abs/2309.14326), arxiv:2309.14326, 2023
+- Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, and Alexey V. Gorshkov, ["Improved Digital Quantum Simulation by Non-Unitary Channels"](https://arxiv.org/abs/2307.13028), arxiv:2307.13028, 2023. 
 - Weiyuan Gong\*, Chenyi Zhang\*, and Tongyang Li, ["Robustness of Quantum Algorithms for Nonconvex Optimization"](https://arxiv.org/abs/2212:02548), arXiv:2212:02548, 2022.
+
+### Manuscripts
+
+- Sitan Chen, Weiyuan Gong, and Qi Ye, "Optimal tradeoffs for estimating Pauli observables", submitted, 2024. 
+- Zhihan Zhang*, Weiyuan Gong*, Weikang Li, and Dong-Ling Deng, "Quantum-classical separations in shallow-circuit-based learning with and without noise", submitted, 2023.
+
 
 ## Academic Service:
 
