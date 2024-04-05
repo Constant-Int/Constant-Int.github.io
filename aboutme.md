@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-My name is Weiyuan Gong (龚维元). Before entering Harvard, I got my B.E. from Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by Prof. [Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/). Here is my CV.
+My name is Weiyuan Gong (龚维元). Before entering Harvard, I got my B.E. from Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by Prof. [Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/). Here is my [CV](assets/files/CV_WG_4_24.pdf)..
 
 
 ## Education
