@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+cover-img: /assets/img/scene_1.jpg
 ---
 
 ### Address
