@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Research
 ---
+## Papers
 
 ### Publications
 
@@ -13,6 +14,17 @@ title: Publications
 
 
 ### Preprints
+
 - Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li, ["A Theory of Digital Quantum Simulations in the Low-Energy Subspace"](https://arxiv.org/abs/2312.08867), arxiv:2312.08867, 2023.
 - Sitan Chen, Weiyuan Gong, ["Efficient Pauli channel estimation with logarithmic quantum memory"](https://arxiv.org/abs/2309.14326), arxiv:2309.14326, 2023
 - Weiyuan Gong\*, Chenyi Zhang\*, and Tongyang Li, ["Robustness of Quantum Algorithms for Nonconvex Optimization"](https://arxiv.org/abs/2212:02548), arXiv:2212:02548, 2022.
+
+## Academic Service:
+
+- Referee for conferences: STOC 2024, QIP 2024
+- Referee for journals: Quantum, Communications in Mathematical Physics, ACM Transactions on Quantum Computing, TheoretiCS
+
+## Teaching
+
+- Teaching assistant, Abstract Algebra, IIIS, Tsinghua University, 2023 Spring
+
