@@ -5,16 +5,15 @@ title: Contact
 
 ### Address (Virtual)
 
-S321 Meng Min Wei Sci & Tech Building
+150 Western Ave, Allston, MA 02134
 
-Institute for Interdisciplinary Information Sciences
+John A. Paulson School of Engineering and Applied Sciences (SEAS)
 
-Tsinghua University
+Harvard University
 
-Beijing 100084 P.R. China
 
 ### About Email
 
-My formal email address is gongwy19[at]mails.tsinghua.edu.cn.
+Working email: wgong[at]g.harvard.edu
 
-However, a more reliable way to contact me is to use wygong8[at]gmail.com.
+Personal email: wygong8[at]gmail.com
