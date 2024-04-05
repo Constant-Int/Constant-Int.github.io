@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New preprints available today.
-share-img: /assets/img/scene_1.jpg
 tags: [news]
 
 ---
