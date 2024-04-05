@@ -21,4 +21,4 @@ My name is Weiyuan Gong (龚维元), a first-year graduate student at [John A. P
 
 ## Miscellaneous
 
-I enjoy driving, swimming, and playing table tennis. I was the leader and the co-founder of the table tennis team for IIIS. Appointments for playing table tennis are strongly welcomed!
+I enjoy driving, swimming, and playing table tennis. I was the leader and the co-founder of the table tennis team for IIIS. Appointments for playing table tennis are strongly welcomed! I also enjoy taking care of and playing with my potato kitty.
