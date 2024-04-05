@@ -2,7 +2,6 @@
 layout: post
 title: New preprints available today.
 tags: [news]
-
 ---
 
 With Dong Yuan, [Weikang Li](https://lwkjjonak.github.io/), and [Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/), we propose a general scheme to protect quantum learning systems from adversarial attacks by randomly encoding the legitimate data samples through unitary or quantum error correction encoders. We proved that random unitary encoders yield exponentially vanishing gradients (i.e. barren plateaus) for adversary variational quantum circuits that add perturbations. Additionally, we showed that concatenating random quantum error correction encoders can provide increasing adversarial robustness against local adversarial noise. [https://arxiv.org/abs/2212.02531](https://arxiv.org/abs/2212.02531)
