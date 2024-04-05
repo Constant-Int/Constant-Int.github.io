@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-### Address (Virtual)
+### Address
 
 150 Western Ave, Allston, MA 02134
 
