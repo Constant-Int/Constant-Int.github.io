@@ -16,6 +16,7 @@ cover-img: /assets/img/scene_4.jpg
 
 ### Preprints
 
+- Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng, ["Quantum-classical separations in shallow-circuit-based learning with and without noise"](https://arxiv.org/abs/2405.00770), 2024.
 - (alphabetical order) Sitan Chen, Weiyuan Gong, and Qi Ye, ["Optimal tradeoffs for estimating Pauli observables"](https://arxiv.org/abs/2404.19105), arxiv:2404.19105, 2024. 
 - Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li, ["A Theory of Digital Quantum Simulations in the Low-Energy Subspace"](https://arxiv.org/abs/2312.08867), arxiv:2312.08867, 2023.
 - (alphabetical order) Sitan Chen, Weiyuan Gong, ["Efficient Pauli channel estimation with logarithmic quantum memory"](https://arxiv.org/abs/2309.14326), arxiv:2309.14326, 2023
@@ -23,9 +24,6 @@ cover-img: /assets/img/scene_4.jpg
 - Weiyuan Gong\*, Chenyi Zhang\*, and Tongyang Li, ["Robustness of Quantum Algorithms for Nonconvex Optimization"](https://arxiv.org/abs/2212:02548), arXiv:2212:02548, 2022.
 
 ### Manuscripts
-
-- Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng, "Quantum-classical separations in shallow-circuit-based learning with and without noise", submitted, 2023.
-
 
 ## Academic Service:
 
