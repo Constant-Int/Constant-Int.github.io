@@ -16,11 +16,11 @@ cover-img: /assets/img/scene_4.jpg
 
 ### Preprints
 
-- Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng, ["Quantum-classical separations in shallow-circuit-based learning with and without noise"](https://arxiv.org/abs/2405.00770), 2024.
-- (alphabetical order) Sitan Chen, Weiyuan Gong, and Qi Ye, ["Optimal tradeoffs for estimating Pauli observables"](https://arxiv.org/abs/2404.19105), arxiv:2404.19105, 2024. 
-- Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li, ["A Theory of Digital Quantum Simulations in the Low-Energy Subspace"](https://arxiv.org/abs/2312.08867), arxiv:2312.08867, 2023.
-- (alphabetical order) Sitan Chen, Weiyuan Gong, ["Efficient Pauli channel estimation with logarithmic quantum memory"](https://arxiv.org/abs/2309.14326), arxiv:2309.14326, 2023
-- Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, and Alexey V. Gorshkov, ["Improved Digital Quantum Simulation by Non-Unitary Channels"](https://arxiv.org/abs/2307.13028), arxiv:2307.13028, 2023. 
+- Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng, ["Quantum-classical separations in shallow-circuit-based learning with and without noise"](https://arxiv.org/abs/2405.00770), arXiv:2405.00770, 2024.
+- (alphabetical order) Sitan Chen, Weiyuan Gong, and Qi Ye, ["Optimal tradeoffs for estimating Pauli observables"](https://arxiv.org/abs/2404.19105), arXiv:2404.19105, 2024. 
+- Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li, ["A Theory of Digital Quantum Simulations in the Low-Energy Subspace"](https://arxiv.org/abs/2312.08867), arXiv:2312.08867, 2023.
+- (alphabetical order) Sitan Chen, Weiyuan Gong, ["Efficient Pauli channel estimation with logarithmic quantum memory"](https://arxiv.org/abs/2309.14326), arXiv:2309.14326, 2023
+- Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, and Alexey V. Gorshkov, ["Improved Digital Quantum Simulation by Non-Unitary Channels"](https://arxiv.org/abs/2307.13028), arXiv:2307.13028, 2023. 
 - Weiyuan Gong\*, Chenyi Zhang\*, and Tongyang Li, ["Robustness of Quantum Algorithms for Nonconvex Optimization"](https://arxiv.org/abs/2212:02548), arXiv:2212:02548, 2022.
 
 ### Manuscripts
