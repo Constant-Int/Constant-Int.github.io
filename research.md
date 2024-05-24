@@ -7,7 +7,7 @@ cover-img: /assets/img/scene_4.jpg
 
 ### Publications
 
-- (**)Jianxin Chen, Dawei Ding, Weiyuan Gong, Cupjin Huang, Qi Ye, ["One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing"](https://dl.acm.org/doi/10.1145/3620665.3640386), Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024), 2024.
+- (**) Jianxin Chen, Dawei Ding, Weiyuan Gong, Cupjin Huang, Qi Ye, ["One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing"](https://dl.acm.org/doi/10.1145/3620665.3640386), Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024), 2024.
 - Weiyuan Gong, Dong Yuan, Weikang Li, and Dong-Ling Deng, ["Enhancing Quantum Adversarial Robustness by Randomized Encodings"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023020), Phys. Rev. Res. 6, 023020, 2024. See also: APS March Meeting 2023.
 - Weiyuan Gong and Scott Aaronson, ["Learning Distributions over Quantum Measurement Outcomes"](https://proceedings.mlr.press/v202/gong23a/gong23a.pdf), Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202: 11598-11613, 2023.
 - Weiyuan Gong\*, Si Jiang\*, and Dong-ling Deng, ["No-go theorem and a universal decomposition strategy for quantum channel compilation"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013060), Phys. Rev. Res. 5, 013060, 2023.
