@@ -5,6 +5,8 @@ cover-img: /assets/img/scene_4.jpg
 ---
 ## Papers
 
+(**) for alphabetical order
+
 ### Publications
 
 - (**) Jianxin Chen, Dawei Ding, Weiyuan Gong, Cupjin Huang, Qi Ye, ["One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing"](https://dl.acm.org/doi/10.1145/3620665.3640386), Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024), 2024.
