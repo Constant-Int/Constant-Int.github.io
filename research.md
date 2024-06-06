@@ -34,5 +34,6 @@ cover-img: /assets/img/scene_4.jpg
 
 ## Teaching
 
+- Teaching fellow, CS 2243: Algorithms for Data Science, SEAS, Harvard University, 2024 Fall
 - Teaching assistant, Abstract Algebra, IIIS, Tsinghua University, 2023 Spring
 
