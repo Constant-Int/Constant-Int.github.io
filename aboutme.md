@@ -4,14 +4,14 @@ title: About me
 cover-img: /assets/img/scene_2.jpg
 ---
 
-My name is Weiyuan Gong (龚维元), a first-year graduate student at [John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/), [Harvard University](https://www.harvard.edu/). I am fortunate to work with [Prof. Sitan Chen](https://sitanchen.com/). 
+My name is Weiyuan Gong (龚维元), and I'm currently a first-year graduate student at [John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/), where I have the privilege of working with [Prof. Sitan Chen](https://sitanchen.com/). 
 
-I am working on exploring the intersection of quantum information, machine learning theory, and quantum complexity theory. I am also interested in other topics including near-term quantum applications, quantum simulation, optimization theory, and designing algorithms.
+My research primarily focuses on the intersection of quantum information, machine learning theory, and quantum complexity theory. Additionally, I am exploring a range of other topics, including near-term quantum applications, quantum simulation, optimization theory, and algorithm design.
 
-Before entering Harvard, I got my B.E. from Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) advised by [Prof. Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/en/). Here is my [CV](assets/files/CV_WG_4_24.pdf).
+Prior to my studies at Harvard, I completed my Bachelor of Engineering at Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/en/). Please find my [CV](assets/files/CV_WG_4_24.pdf) for more details.
 
 Email: wgong[at]g.harvard.edu
 
 ## Miscellaneous
 
-I enjoy driving, swimming, and playing table tennis. I was the leader and the co-founder of the table tennis team for IIIS. Appointments for playing table tennis are strongly welcomed! I also enjoy taking care of and playing with my potato kitty.
+I have a passion for driving, swimming, and playing table tennis. As the leader and co-founder of the table tennis team at IIIS, I enthusiastically welcome opportunities to play! Additionally, I take great joy in spending time with my significant other, whom I affectionately refer to as my 'potato kitty'. I’m grateful to my potato kitty for helping me polish my homepage.
