@@ -30,7 +30,7 @@ cover-img: /assets/img/scene_4.jpg
 ## Academic Service:
 
 - Referee for conferences: STOC 2024, QIP 2024, QSim 2024
-- Referee for journals: PRX Quantum, Quantum, Communications in Mathematical Physics, ACM Transactions on Quantum Computing, TheoretiCS
+- Referee for journals: PRX Quantum, Physical Review A, Quantum, Communications in Mathematical Physics, ACM Transactions on Quantum Computing, TheoretiCS
 
 ## Teaching
 
