@@ -8,7 +8,7 @@ cover-img: /assets/img/scene_4.jpg
 (**) for alphabetical order
 
 ### Publications
-
+- (**) Sitan Chen, Weiyuan Gong, and Qi Ye, ["Optimal tradeoffs for estimating Pauli observables"](https://arxiv.org/abs/2404.19105), accepted by FOCS 2024, arXiv:2404.19105, 2024. 
 - (**) Jianxin Chen, Dawei Ding, Weiyuan Gong, Cupjin Huang, Qi Ye, ["One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing"](https://dl.acm.org/doi/10.1145/3620665.3640386), Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024), 2024.
 - Weiyuan Gong, Dong Yuan, Weikang Li, and Dong-Ling Deng, ["Enhancing Quantum Adversarial Robustness by Randomized Encodings"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023020), Phys. Rev. Res. 6, 023020, 2024. See also: APS March Meeting 2023.
 - Weiyuan Gong and Scott Aaronson, ["Learning Distributions over Quantum Measurement Outcomes"](https://proceedings.mlr.press/v202/gong23a/gong23a.pdf), Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202: 11598-11613, 2023.
@@ -19,7 +19,6 @@ cover-img: /assets/img/scene_4.jpg
 ### Preprints
 
 - Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng, ["Quantum-classical separations in shallow-circuit-based learning with and without noise"](https://arxiv.org/abs/2405.00770), arXiv:2405.00770, 2024.
-- (**) Sitan Chen, Weiyuan Gong, and Qi Ye, ["Optimal tradeoffs for estimating Pauli observables"](https://arxiv.org/abs/2404.19105), arXiv:2404.19105, 2024. 
 - Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li, ["A Theory of Digital Quantum Simulations in the Low-Energy Subspace"](https://arxiv.org/abs/2312.08867), arXiv:2312.08867, 2023.
 - (**) Sitan Chen, Weiyuan Gong, ["Efficient Pauli channel estimation with logarithmic quantum memory"](https://arxiv.org/abs/2309.14326), arXiv:2309.14326, 2023
 - Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, and Alexey V. Gorshkov, ["Improved Digital Quantum Simulation by Non-Unitary Channels"](https://arxiv.org/abs/2307.13028), arXiv:2307.13028, 2023. 
