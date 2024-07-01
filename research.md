@@ -44,7 +44,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong, Dong Yuan, Weikang Li, Dong-Ling Deng\
   Phys. Rev. Res. 6, 023020, 2024 (see also: APS March Meeting 2023)
   
-- **Learning Distributions over Quantum Measurement Outcomes** [[ICML](https://proceedings.mlr.press/v202/gong23a/gong23a.pdf)] [[pdf](https://arxiv.org/abs/2209.03007)]\
+- **Learning Distributions over Quantum Measurement Outcomes** [[ICML](https://proceedings.mlr.press/v202/gong23a.html)] [[pdf](https://arxiv.org/abs/2209.03007)]\
   Weiyuan Gong, Scott Aaronson\
   ICML 2023, PMLR 202: 11598-11613, 2023
   
