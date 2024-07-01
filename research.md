@@ -3,17 +3,37 @@ layout: page
 title: Research
 cover-img: /assets/img/scene_4.jpg
 ---
-## Papers
+# Papers
 
 Authors are usually listed in the alphabetical order for theoretical computer science papers. The main contributors are marked in order cases.
 
-### Publications
+## Preprints
+
+- **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[pdf](https://arxiv.org/abs/2405.00770)]\
+  Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng\
+  arXiv:2405.00770, 2024
+  
+- **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
+  Sitan Chen, Weiyuan Gong\
+  arXiv:2309.14326, 2023
+  
+- **Improved Digital Quantum Simulation by Non-Unitary Channels** [[pdf](https://arxiv.org/abs/2307.13028)]\
+  Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, Alexey V. Gorshkov\
+  arXiv:2307.13028, 2023
+  
+- **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212:02548)]\
+  Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
+  arXiv:2212:02548, 2022
+
+## Manuscripts
+
+## Publications
 - **A Theory of Digital Quantum Simulations in the Low-Energy Subspace** [[pdf](https://arxiv.org/abs/2312.08867)]\
   Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
   Accepted to Quantum, arXiv:2312.08867, 2024
   
 - **Optimal tradeoffs for estimating Pauli observables** [[pdf](https://arxiv.org/abs/2404.19105)]\
-  Sitan Chen, Weiyuan Gong, and Qi Ye\
+  Sitan Chen, Weiyuan Gong, Qi Ye\
   Accepted to the FOCS 2024, arXiv:2404.19105, 2024
 
 - **One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing** [[web](https://dl.acm.org/doi/10.1145/3620665.3640386)] [[pdf](https://arxiv.org/abs/2312.05652)]\
@@ -21,37 +41,28 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   ASPLOS 2024
   
 - **Enhancing Quantum Adversarial Robustness by Randomized Encodings** [[web](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023020)] [[pdf](https://arxiv.org/abs/2212.02531)]\
-  Weiyuan Gong, Dong Yuan, Weikang Li, and Dong-Ling Deng\
+  Weiyuan Gong, Dong Yuan, Weikang Li, Dong-Ling Deng\
   Phys. Rev. Res. 6, 023020, 2024 (see also: APS March Meeting 2023)
   
 - **Learning Distributions over Quantum Measurement Outcomes** [[ICML](https://proceedings.mlr.press/v202/gong23a/gong23a.pdf)] [[pdf](https://arxiv.org/abs/2209.03007)]\
-  Weiyuan Gong and Scott Aaronson\
+  Weiyuan Gong, Scott Aaronson\
   ICML 2023, PMLR 202: 11598-11613, 2023
   
 - **No-go theorem and a universal decomposition strategy for quantum channel compilation** [[web](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013060)] [[pdf](https://arxiv.org/abs/2111.02426)]\
-  Weiyuan Gong\*, Si Jiang\*, and Dong-ling Deng\
+  Weiyuan Gong\*, Si Jiang\*, Dong-ling Deng\
   Phys. Rev. Res. 5, 013060, 2023
   
 - **Universal Adversarial Examples and Perturbations for Quantum Classifiers** [[web](https://academic.oup.com/nsr/article/9/6/nwab130/6325546)] [[pdf](https://arxiv.org/abs/2102.07788)]\
-  Weiyuan Gong and Dong-ling Deng\
+  Weiyuan Gong, Dong-ling Deng\
   National Science Review, Volume 9, Issue 6, nwab130, 2022.
 
 
-### Preprints
-
-- Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng, ["Quantum-classical separations in shallow-circuit-based learning with and without noise"](https://arxiv.org/abs/2405.00770), arXiv:2405.00770, 2024.
-- (**) Sitan Chen, Weiyuan Gong, ["Efficient Pauli channel estimation with logarithmic quantum memory"](https://arxiv.org/abs/2309.14326), arXiv:2309.14326, 2023
-- Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, and Alexey V. Gorshkov, ["Improved Digital Quantum Simulation by Non-Unitary Channels"](https://arxiv.org/abs/2307.13028), arXiv:2307.13028, 2023. 
-- Weiyuan Gong\*, Chenyi Zhang\*, and Tongyang Li, ["Robustness of Quantum Algorithms for Nonconvex Optimization"](https://arxiv.org/abs/2212:02548), arXiv:2212:02548, 2022.
-
-### Manuscripts
-
-## Academic Service:
+# Academic Service:
 
 - Referee for conferences: STOC 2024, QIP 2024, QSim 2024
 - Referee for journals: PRX Quantum, Physical Review A, Quantum, Communications in Mathematical Physics, ACM Transactions on Quantum Computing, TheoretiCS
 
-## Teaching
+# Teaching
 
 - Teaching fellow, CS 2243: Algorithms for Data Science, SEAS, Harvard University, 2024 Fall
 - Teaching assistant, Abstract Algebra, IIIS, Tsinghua University, 2023 Spring
