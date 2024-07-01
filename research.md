@@ -16,8 +16,12 @@ cover-img: /assets/img/scene_4.jpg
   (**) Sitan Chen, Weiyuan Gong, and Qi Ye\
   Accepted to the FOCS 2024, arXiv:2404.19105, 2024
   
-- (**) Jianxin Chen, Dawei Ding, Weiyuan Gong, Cupjin Huang, Qi Ye, ["One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing"](https://dl.acm.org/doi/10.1145/3620665.3640386), ASPLOS 2024.
-- Weiyuan Gong, Dong Yuan, Weikang Li, and Dong-Ling Deng, ["Enhancing Quantum Adversarial Robustness by Randomized Encodings"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023020), Phys. Rev. Res. 6, 023020, 2024. See also: APS March Meeting 2023.
+- **One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing** [[web](https://dl.acm.org/doi/10.1145/3620665.3640386)] [[pdf](https://arxiv.org/abs/2312.05652)]\
+  (**) Jianxin Chen, Dawei Ding, Weiyuan Gong, Cupjin Huang, Qi Ye\
+  ASPLOS 2024.
+- **Enhancing Quantum Adversarial Robustness by Randomized Encodings** [[web](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023020)] [[pdf](https://arxiv.org/abs/2212.02531)]\
+  Weiyuan Gong, Dong Yuan, Weikang Li, and Dong-Ling Deng\
+  Phys. Rev. Res. 6, 023020, 2024. See also: APS March Meeting 2023.
 - Weiyuan Gong and Scott Aaronson, ["Learning Distributions over Quantum Measurement Outcomes"](https://proceedings.mlr.press/v202/gong23a/gong23a.pdf), ICML 2023, PMLR 202: 11598-11613, 2023.
 - Weiyuan Gong\*, Si Jiang\*, and Dong-ling Deng, ["No-go theorem and a universal decomposition strategy for quantum channel compilation"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013060), Phys. Rev. Res. 5, 013060, 2023.
 - Weiyuan Gong and Dong-ling Deng, ["Universal Adversarial Examples and Perturbations for Quantum Classifiers"](https://academic.oup.com/nsr/article/9/6/nwab130/6325546), National Science Review, Volume 9, Issue 6, nwab130, 2022.
