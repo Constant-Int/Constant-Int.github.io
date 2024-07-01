@@ -10,7 +10,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 ## Preprints
 
 - **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[pdf](https://arxiv.org/abs/2405.00770)]\
-  Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, and Dong-Ling Deng\
+  Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, Dong-Ling Deng\
   arXiv:2405.00770, 2024
   
 - **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
