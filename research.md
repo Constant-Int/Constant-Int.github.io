@@ -23,7 +23,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   
 - **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212:02548)]\
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
-  arXiv:2212:02548, 2022
+  arXiv:2212.02548, 2022
 
 ## Manuscripts
 
