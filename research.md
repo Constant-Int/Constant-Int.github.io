@@ -46,7 +46,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   
 - **Learning Distributions over Quantum Measurement Outcomes** [[ICML](https://proceedings.mlr.press/v202/gong23a.html)] [[pdf](https://arxiv.org/abs/2209.03007)]\
   Weiyuan Gong, Scott Aaronson\
-  ICML 2023, PMLR 202: 11598-11613, 2023
+  ICML 2023
   
 - **No-go theorem and a universal decomposition strategy for quantum channel compilation** [[PRR](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013060)] [[pdf](https://arxiv.org/abs/2111.02426)]\
   Weiyuan Gong\*, Si Jiang\*, Dong-ling Deng\
