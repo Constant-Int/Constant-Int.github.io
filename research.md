@@ -25,8 +25,6 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
   arXiv:2212.02548, 2022
 
-## Manuscripts
-
 ## Publications
 - **A Theory of Digital Quantum Simulations in the Low-Energy Subspace** [[pdf](https://arxiv.org/abs/2312.08867)]\
   Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
