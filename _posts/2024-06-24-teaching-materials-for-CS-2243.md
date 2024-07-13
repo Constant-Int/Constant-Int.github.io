@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teaching materials for CS 2243
+cover-img: /assets/img/maomaodun.jpg
 tags: [materials]
 ---
 
