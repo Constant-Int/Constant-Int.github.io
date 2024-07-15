@@ -31,7 +31,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Sitan Chen, Weiyuan Gong, Qi Ye\
   Accepted to the FOCS 2024, arXiv:2404.19105, 2024
 
-  - **Complexity of Digital Quantum Simulation in the Low-Energy Subspace: Applications and a Lower Bound** [[Quantum](https://quantum-journal.org/papers/q-2024-07-15-1409/)][[pdf](https://arxiv.org/abs/2312.08867)]\
+- **Complexity of Digital Quantum Simulation in the Low-Energy Subspace: Applications and a Lower Bound** [[Quantum](https://quantum-journal.org/papers/q-2024-07-15-1409/)][[pdf](https://arxiv.org/abs/2312.08867)]\
   Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
   Quantum 8, 1409, 2024
 
