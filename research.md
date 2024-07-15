@@ -26,13 +26,14 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   arXiv:2212.02548, 2022
 
 ## Publications
-- **A Theory of Digital Quantum Simulations in the Low-Energy Subspace** [[pdf](https://arxiv.org/abs/2312.08867)]\
-  Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
-  Accepted to Quantum, arXiv:2312.08867, 2024
   
 - **Optimal tradeoffs for estimating Pauli observables** [[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong, Qi Ye\
   Accepted to the FOCS 2024, arXiv:2404.19105, 2024
+
+  - **Complexity of Digital Quantum Simulation in the Low-Energy Subspace: Applications and a Lower Bound** [[Quantum](https://quantum-journal.org/papers/q-2024-07-15-1409/)][[pdf](https://arxiv.org/abs/2312.08867)]\
+  Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
+  Quantum 8, 1409, 2024
 
 - **One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing** [[ASPLOS](https://dl.acm.org/doi/10.1145/3620665.3640386)] [[pdf](https://arxiv.org/abs/2312.05652)]\
   Jianxin Chen, Dawei Ding, Weiyuan Gong, Cupjin Huang, Qi Ye\
