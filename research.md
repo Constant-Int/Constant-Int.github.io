@@ -5,7 +5,7 @@ cover-img: /assets/img/scene_4.jpg
 ---
 # Papers
 
-Authors are usually listed in the alphabetical order for theoretical computer science papers. The main contributors are marked otherwise.
+Authors are usually listed in the alphabetical order for theoretical computer science papers. The contributions are marked otherwise.
 
 ## Preprints
 
