@@ -25,7 +25,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   
 - **Optimal tradeoffs for estimating Pauli observables** [[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong, Qi Ye\
-  Accepted to the FOCS 2024, arXiv:2404.19105, 2024
+  Accepted to FOCS 2024, arXiv:2404.19105, 2024
 
 - **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[pdf](https://arxiv.org/abs/2405.00770)]\
   Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, Dong-Ling Deng\
