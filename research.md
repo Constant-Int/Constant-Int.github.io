@@ -23,8 +23,8 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Manuscripts
 
-- **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation**
-  Sitan Chen, Weiyuan Gong, Qi Ye, Zhihan Zhang
+- **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation**\
+  Sitan Chen, Weiyuan Gong, Qi Ye, Zhihan Zhang\
   2024
 
 ## Publications
