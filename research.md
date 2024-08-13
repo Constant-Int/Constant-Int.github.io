@@ -21,6 +21,12 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
   arXiv:2212.02548, 2022
 
+## Manuscripts
+
+- **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation**
+  Sitan Chen, Weiyuan Gong, Qi Ye, Zhihan Zhang
+  2024
+
 ## Publications
   
 - **Optimal tradeoffs for estimating Pauli observables** [[pdf](https://arxiv.org/abs/2404.19105)]\
