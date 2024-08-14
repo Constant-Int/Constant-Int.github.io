@@ -8,24 +8,22 @@ cover-img: /assets/img/scene_4.jpg
 Authors are usually listed in the alphabetical order for theoretical computer science papers. The contributions are marked otherwise.
 
 ## Preprints
+
+- **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation**[[pdf](https://arxiv.org/abs/2408.06967)]\
+  Sitan Chen, Weiyuan Gong, Qi Ye, Zhihan Zhang\
+  arXiv:2407.06967
   
 - **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
   Sitan Chen, Weiyuan Gong\
-  arXiv:2309.14326, 2023
+  arXiv:2309.14326
   
 - **Improved Digital Quantum Simulation by Non-Unitary Channels** [[pdf](https://arxiv.org/abs/2307.13028)]\
   Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, Alexey V. Gorshkov\
-  arXiv:2307.13028, 2023
+  arXiv:2307.13028
   
 - **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
-  arXiv:2212.02548, 2022
-
-## Manuscripts
-
-- **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation**\
-  Sitan Chen, Weiyuan Gong, Qi Ye, Zhihan Zhang\
-  2024
+  arXiv:2212.02548
 
 ## Publications
   
