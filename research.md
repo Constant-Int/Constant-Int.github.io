@@ -9,9 +9,9 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Preprints
 
-- **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation**[[pdf](https://arxiv.org/abs/2408.06967)]\
+- **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong, Qi Ye, Zhihan Zhang\
-  arXiv:2407.06967
+  arXiv:2408.06967
   
 - **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
   Sitan Chen, Weiyuan Gong\
