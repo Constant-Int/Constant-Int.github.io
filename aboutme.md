@@ -4,7 +4,7 @@ title: About me
 cover-img: /assets/img/scene_2.jpg
 ---
 
-My name is Weiyuan Gong (龚维元), and I'm currently a first-year graduate student at [John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/), where I have the privilege of working with [Prof. Sitan Chen](https://sitanchen.com/). 
+My name is Weiyuan Gong (龚维元), and I'm currently a second-year graduate student at [John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/), where I have the privilege of working with [Prof. Sitan Chen](https://sitanchen.com/). 
 
 My research primarily focuses on the intersection of learning theory, complexity theory, and quantum information. Additionally, I am exploring a range of other topics, including near-term quantum applications, quantum simulation, optimization theory, and algorithm design.
 
