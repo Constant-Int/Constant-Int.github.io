@@ -31,9 +31,9 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Sitan Chen, Weiyuan Gong, Qi Ye\
   Accepted to FOCS 2024, arXiv:2404.19105, 2024
 
-- **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[pdf](https://arxiv.org/abs/2405.00770)]\
+- **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[CommunPhys](https://www.nature.com/articles/s42005-024-01783-7)][[pdf](https://arxiv.org/abs/2405.00770)]\
   Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, Dong-Ling Deng\
-  Accepted to Communications Physics, arXiv:2405.00770, 2024
+  Commun. Phys., 2024
 
 - **Complexity of Digital Quantum Simulation in the Low-Energy Subspace: Applications and a Lower Bound** [[Quantum](https://quantum-journal.org/papers/q-2024-07-15-1409/)][[pdf](https://arxiv.org/abs/2312.08867)]\
   Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
