@@ -18,7 +18,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   arXiv:2309.14326
   
 - **Improved Digital Quantum Simulation by Non-Unitary Channels** [[pdf](https://arxiv.org/abs/2307.13028)]\
-  Weiyuan Gong, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, Alexey V. Gorshkov\
+  Weiyuan Gong\*, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, Alexey V. Gorshkov\
   arXiv:2307.13028
   
 - **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
@@ -44,11 +44,11 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   ASPLOS 2024
   
 - **Enhancing Quantum Adversarial Robustness by Randomized Encodings** [[PRR](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023020)] [[pdf](https://arxiv.org/abs/2212.02531)]\
-  Weiyuan Gong, Dong Yuan, Weikang Li, Dong-Ling Deng\
+  Weiyuan Gong\*, Dong Yuan, Weikang Li, Dong-Ling Deng\
   Phys. Rev. Res. 6, 023020, 2024 (see also: APS March Meeting 2023)
   
 - **Learning Distributions over Quantum Measurement Outcomes** [[ICML](https://proceedings.mlr.press/v202/gong23a.html)] [[pdf](https://arxiv.org/abs/2209.03007)]\
-  Weiyuan Gong, Scott Aaronson\
+  Weiyuan Gong\*, Scott Aaronson\
   ICML 2023
   
 - **No-go theorem and a universal decomposition strategy for quantum channel compilation** [[PRR](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013060)] [[pdf](https://arxiv.org/abs/2111.02426)]\
@@ -56,7 +56,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Phys. Rev. Res. 5, 013060, 2023
   
 - **Universal Adversarial Examples and Perturbations for Quantum Classifiers** [[NSR](https://academic.oup.com/nsr/article/9/6/nwab130/6325546)] [[pdf](https://arxiv.org/abs/2102.07788)]\
-  Weiyuan Gong, Dong-ling Deng\
+  Weiyuan Gong\*, Dong-ling Deng\
   National Science Review, Volume 9, Issue 6, nwab130, 2022
 
 
