@@ -62,7 +62,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 # Academic Service:
 
-- Referee for conferences: STOC 2024, QIP 2024, QSim 2024
+- Referee for conferences: STOC, QIP, ITCS, QSim
 - Referee for journals: PRX Quantum, Physical Review A, Quantum, Communications in Mathematical Physics, ACM Transactions on Quantum Computing, TheoretiCS
 
 # Teaching
