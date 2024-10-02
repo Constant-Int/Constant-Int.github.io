@@ -63,7 +63,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 # Academic Service:
 
 - Referee for conferences: STOC, QIP, ITCS, QSim
-- Referee for journals: PRX Quantum, Physical Review A, Quantum, Communications in Mathematical Physics, ACM Transactions on Quantum Computing, TheoretiCS
+- Referee for journals: PRX Quantum, Physical Review A, Quantum, Communications in Mathematical Physics, npj Quantum Information, ACM Transactions on Quantum Computing, TheoretiCS
 
 # Teaching
 
