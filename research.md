@@ -5,16 +5,16 @@ cover-img: /assets/img/scene_4.jpg
 ---
 # Papers
 
-Authors are usually listed in the alphabetical order for theoretical computer science papers (marked by $\dagger$). Author listed by contribution is marked by *
+Authors are usually listed in the alphabetical order for theoretical computer science papers (marked by †). Author listed by contribution is marked by *
 
 ## Preprints
 
 - **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
-  Sitan Chen, Weiyuan Gong $\dagger$, Qi Ye, Zhihan Zhang\
+  Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   arXiv:2408.06967
   
 - **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
-  Sitan Chen, Weiyuan Gong $\dagger$\
+  Sitan Chen, Weiyuan Gong†\
   arXiv:2309.14326
   
 - **Improved Digital Quantum Simulation by Non-Unitary Channels** [[pdf](https://arxiv.org/abs/2307.13028)]\
@@ -28,7 +28,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 ## Publications
   
 - **Optimal tradeoffs for estimating Pauli observables** [[pdf](https://arxiv.org/abs/2404.19105)]\
-  Sitan Chen, Weiyuan Gong $\dagger$, Qi Ye\
+  Sitan Chen, Weiyuan Gong†, Qi Ye\
   Accepted to FOCS 2024, arXiv:2404.19105, 2024
 
 - **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[CommunPhys](https://www.nature.com/articles/s42005-024-01783-7)][[pdf](https://arxiv.org/abs/2405.00770)]\
@@ -40,7 +40,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Quantum 8, 1409, 2024
 
 - **One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing** [[ASPLOS](https://dl.acm.org/doi/10.1145/3620665.3640386)] [[pdf](https://arxiv.org/abs/2312.05652)]\
-  Jianxin Chen, Dawei Ding, Weiyuan Gong $\dagger$, Cupjin Huang, Qi Ye\
+  Jianxin Chen, Dawei Ding, Weiyuan Gong†, Cupjin Huang, Qi Ye\
   ASPLOS 2024
   
 - **Enhancing Quantum Adversarial Robustness by Randomized Encodings** [[PRR](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023020)] [[pdf](https://arxiv.org/abs/2212.02531)]\
