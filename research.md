@@ -28,10 +28,10 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 ## Manuscript
 
 - **On the sample complexity of purity and inner product estimation**\
-  Weiyuan Gong\†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
+  Weiyuan Gong\†, Jonas Haferkamp, Qi Ye, Zhihan Zhang
 
 - **Exponential Separation between Quantum Learning with and without Purification**\
-  Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
+  Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai
 
 ## Publications
   
