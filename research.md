@@ -10,7 +10,8 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 ## Preprints
 
 - **On the sample complexity of purity and inner product estimation** [[pdf](https://arxiv.org/abs/2410.12712)]\
-  Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang
+  Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
+  arXiv:2410.12712
 
 - **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
