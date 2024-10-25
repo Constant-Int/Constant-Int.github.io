@@ -9,6 +9,10 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Preprints
 
+- **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
+  Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
+  arXiv:2410.17718
+
 - **On the sample complexity of purity and inner product estimation** [[pdf](https://arxiv.org/abs/2410.12712)]\
   Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
   arXiv:2410.12712
@@ -30,9 +34,6 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   arXiv:2212.02548
 
 ## Manuscript
-
-- **Exponential Separation between Quantum Learning with and without Purification**\
-  Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai
 
 ## Publications
   
