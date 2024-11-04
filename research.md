@@ -37,7 +37,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Publications
   
-- **Optimal tradeoffs for estimating Pauli observables** [[pdf](https://arxiv.org/abs/2404.19105)]\
+- **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
   Accepted to FOCS 2024, arXiv:2404.19105, 2024\
   [[Quanta Magazine](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)]
