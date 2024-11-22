@@ -12,7 +12,7 @@ Prior to my studies at Harvard, I completed my Bachelor of Engineering at Yao Cl
 
 Email: wgong[at]g.harvard.edu
 
-## Selected Publication
+## Selected Publications
 
 [10] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
