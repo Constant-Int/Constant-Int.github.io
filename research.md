@@ -37,16 +37,16 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Publications
   
-[9] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[pdf](https://arxiv.org/abs/2404.19105)]\
+[8] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
   Accepted to FOCS 2024, arXiv:2404.19105, 2024\
   [[Quanta Magazine](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)][[Wired Magazine](https://www.wired.com/story/quantum-memory-proves-exponentially-powerful/)]
 
-[8] **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[CommunPhys](https://www.nature.com/articles/s42005-024-01783-7)][[pdf](https://arxiv.org/abs/2405.00770)]\
+[7] **Quantum-classical separations in shallow-circuit-based learning with and without noise** [[CommunPhys](https://www.nature.com/articles/s42005-024-01783-7)][[pdf](https://arxiv.org/abs/2405.00770)]\
   Zhihan Zhang\*, Weiyuan Gong\*, Weikang Li, Dong-Ling Deng\
   Commun. Phys. 7, 290, 2024
 
-[7] **Complexity of Digital Quantum Simulation in the Low-Energy Subspace: Applications and a Lower Bound** [[Quantum](https://quantum-journal.org/papers/q-2024-07-15-1409/)][[pdf](https://arxiv.org/abs/2312.08867)]\
+[6] **Complexity of Digital Quantum Simulation in the Low-Energy Subspace: Applications and a Lower Bound** [[Quantum](https://quantum-journal.org/papers/q-2024-07-15-1409/)][[pdf](https://arxiv.org/abs/2312.08867)]\
   Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
   Quantum 8, 1409, 2024
 
