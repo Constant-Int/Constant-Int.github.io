@@ -35,18 +35,17 @@ Email: wgong[at]g.harvard.edu
   Accepted to FOCS 2024, arXiv:2404.19105, 2024\
   [[Quanta Magazine](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)][[Wired Magazine](https://www.wired.com/story/quantum-memory-proves-exponentially-powerful/)]
 
-
-[3] **Complexity of Digital Quantum Simulation in the Low-Energy Subspace: Applications and a Lower Bound** [[Quantum](https://quantum-journal.org/papers/q-2024-07-15-1409/)][[pdf](https://arxiv.org/abs/2312.08867)]\
-  Weiyuan Gong\*, Shuo Zhou\*, Tongyang Li\
-  Quantum 8, 1409, 2024
-
-[2] **One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing** [[ASPLOS](https://dl.acm.org/doi/10.1145/3620665.3640386)] [[pdf](https://arxiv.org/abs/2312.05652)]\
+[3] **One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing** [[ASPLOS](https://dl.acm.org/doi/10.1145/3620665.3640386)] [[pdf](https://arxiv.org/abs/2312.05652)]\
   Jianxin Chen, Dawei Ding, Weiyuan Gong†, Cupjin Huang, Qi Ye\
   ASPLOS 2024
 
-[1] **Learning Distributions over Quantum Measurement Outcomes** [[ICML](https://proceedings.mlr.press/v202/gong23a.html)] [[pdf](https://arxiv.org/abs/2209.03007)]\
+[2] **Learning Distributions over Quantum Measurement Outcomes** [[ICML](https://proceedings.mlr.press/v202/gong23a.html)] [[pdf](https://arxiv.org/abs/2209.03007)]\
   Weiyuan Gong\*, Scott Aaronson\
   ICML 2023
+
+[1] **Universal Adversarial Examples and Perturbations for Quantum Classifiers** [[NSR](https://academic.oup.com/nsr/article/9/6/nwab130/6325546)] [[pdf](https://arxiv.org/abs/2102.07788)]\
+  Weiyuan Gong\*, Dong-ling Deng\
+  National Science Review, Volume 9, Issue 6, nwab130, 2022
 
 ## Miscellaneous
 
