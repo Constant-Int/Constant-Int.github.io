@@ -30,9 +30,9 @@ Email: wgong[at]g.harvard.edu
   Sitan Chen, Weiyuan Gong†\
   arXiv:2309.14326
 
-[4] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[pdf](https://arxiv.org/abs/2404.19105)]\
+[4] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
-  Accepted to FOCS 2024, arXiv:2404.19105, 2024\
+  FOCS 2024\
   [[Quanta Magazine](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)][[Wired Magazine](https://www.wired.com/story/quantum-memory-proves-exponentially-powerful/)]
 
 [3] **One Gate Scheme to Rule Them All: Introducing a Complex Yet Reduced Instruction Set for Quantum Computing** [[ASPLOS](https://dl.acm.org/doi/10.1145/3620665.3640386)] [[pdf](https://arxiv.org/abs/2312.05652)]\
