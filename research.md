@@ -33,8 +33,6 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
   arXiv:2212.02548
 
-## Manuscript
-
 ## Publications
   
 [8] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
@@ -70,6 +68,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong\*, Dong-ling Deng\
   National Science Review, Volume 9, Issue 6, nwab130, 2022
 
+## Manuscript
 
 # Academic Service:
 
