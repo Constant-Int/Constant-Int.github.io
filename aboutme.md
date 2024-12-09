@@ -24,7 +24,7 @@ Email: wgong[at]g.harvard.edu
 
 [6] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
-  arXiv:2408.06967, QIP 2025 plenary talk
+  arXiv:2408.06967, QIP 2025 short plenary talk
   
 [5] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
   Sitan Chen, Weiyuan Gong†\
