@@ -68,7 +68,11 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong\*, Dong-ling Deng\
   National Science Review, Volume 9, Issue 6, nwab130, 2022
 
-## Manuscript
+## Notes \& Manuscript
+
+[1] **Adaptivity can help exponentially for shadow tomography** [[pdf](https://arxiv.org/abs/2412.19022)]\
+  Sitan Chen, Weiyuan Gong†, Zhihan Zhang\
+  arXiv:2412.19022
 
 # Academic Service:
 
