@@ -9,32 +9,33 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Preprints
 
-[6] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
+[5] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
   arXiv:2410.17718, QIP 2025
 
-[5] **On the sample complexity of purity and inner product estimation** [[pdf](https://arxiv.org/abs/2410.12712)]\
+[4] **On the sample complexity of purity and inner product estimation** [[pdf](https://arxiv.org/abs/2410.12712)]\
   Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
   arXiv:2410.12712
 
-[4] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
+[3] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   arXiv:2408.06967, QIP 2025 short plenary talk
   
-[3] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
+[2] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
   Sitan Chen, Weiyuan Gong†\
   arXiv:2309.14326, QIP 2025
   
-[2] **Improved Digital Quantum Simulation by Non-Unitary Channels** [[pdf](https://arxiv.org/abs/2307.13028)]\
+[1] **Improved Digital Quantum Simulation by Non-Unitary Channels** [[pdf](https://arxiv.org/abs/2307.13028)]\
   Weiyuan Gong\*, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, Alexey V. Gorshkov\
   arXiv:2307.13028
   
-[1] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
-  Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
-  arXiv:2212.02548
 
 ## Publications
-  
+
+[9] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
+  Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
+  Accepted to ICLR 2025, arXiv:2212.02548\
+
 [8] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
   FOCS 2024, QIP 2025\
