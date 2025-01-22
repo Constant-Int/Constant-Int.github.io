@@ -34,7 +34,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 [9] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
-  Accepted to ICLR 2025, arXiv:2212.02548\
+  Accepted to ICLR 2025, arXiv:2212.02548
 
 [8] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
