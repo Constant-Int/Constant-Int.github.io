@@ -8,7 +8,7 @@ My name is Weiyuan Gong (龚维元), and I'm currently a second-year graduate st
 
 My research primarily focuses on the intersection of learning theory, complexity theory, and quantum information. Additionally, I am exploring a range of other topics, including near-term quantum applications, quantum simulation, optimization theory, and algorithm design.
 
-Prior to my studies at Harvard, I completed my Bachelor of Engineering at Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/en/). Please find my [CV](assets/files/CV_WG_4_24.pdf) for more details.
+Prior to my studies at Harvard, I completed my Bachelor of Engineering at Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/en/).
 
 Email: wgong[at]g.harvard.edu
 
