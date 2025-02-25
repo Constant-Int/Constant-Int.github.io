@@ -18,7 +18,7 @@ Email: wgong[at]g.harvard.edu
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
   arXiv:2410.17718, QIP 2025
 
-[8] **On the sample complexity of purity and inner product estimation** [[pdf](https://arxiv.org/abs/2410.12712)]\
+[8] **On the sample complexity of purity and inner product estimation** [[video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
   Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
   arXiv:2410.12712
   
