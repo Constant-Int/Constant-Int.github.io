@@ -10,7 +10,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 ## Preprints
 
 [5] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)]\
-  Hong-Ye Hu, Muzhou Ma, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
+  Hong-Ye Hu*, Muzhou Ma*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
   arXiv:2502.11900
   
 [4] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
