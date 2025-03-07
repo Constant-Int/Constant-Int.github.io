@@ -10,7 +10,7 @@ My research primarily focuses on the intersection of learning theory, complexity
 
 Prior to my studies at Harvard, I completed my Bachelor of Engineering at Yao Class, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/dengdl/) at the [Center for Quantum Information (CQI)](https://cqi.tsinghua.edu.cn/en/).
 
-Email: wgong[at]g.harvard.edu
+Email: wgong [at] g [dot] harvard [dot] edu
 
 ## Selected Publications
 
