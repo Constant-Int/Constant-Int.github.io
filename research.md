@@ -9,22 +9,17 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Preprints
 
-[5] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)]\
+[4] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)]\
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
   arXiv:2502.11900
   
-[4] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
+[3] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
   arXiv:2410.17718, QIP 2025
 
-[3] **On the sample complexity of purity and inner product estimation** [[video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
+[2] **On the sample complexity of purity and inner product estimation** [[video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
   Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
   arXiv:2410.12712
-
-  
-[2] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
-  Sitan Chen, Weiyuan Gong†\
-  arXiv:2309.14326, QIP 2025
   
 [1] **Improved Digital Quantum Simulation by Non-Unitary Channels** [[pdf](https://arxiv.org/abs/2307.13028)]\
   Weiyuan Gong\*, Yaroslav Kharkov, Minh C. Tran, Przemyslaw Bienias, Alexey V. Gorshkov\
@@ -32,6 +27,10 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   
 
 ## Publications
+[11] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
+  Sitan Chen, Weiyuan Gong†\
+  Accepted to PRX Quantum, QIP 2025, arXiv:2309.14326
+  
 [10] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   Accepted to STOC 2025, QIP 2025 short plenary talk, arXiv:2408.06967
