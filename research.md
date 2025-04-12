@@ -75,7 +75,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 ## Notes & Manuscripts
 
 [2] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood**\
-  Sitan Chen, Weiyuan Gong, Jonas Haferkamp, Yihui Quek\
+  Sitan Chen, Weiyuan Gong, Jonas Haferkamp, Yihui Quek
 
 [1] **Adaptivity can help exponentially for shadow tomography** [[pdf](https://arxiv.org/abs/2412.19022)]\
   Sitan Chen, Weiyuan Gong†, Zhihan Zhang\
