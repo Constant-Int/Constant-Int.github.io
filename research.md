@@ -81,13 +81,4 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Sitan Chen, Weiyuan Gong†, Zhihan Zhang\
   arXiv:2412.19022
 
-# Academic Service:
-
-- Referee for conferences: STOC, QIP, ITCS, QSim
-- Referee for journals: PRX Quantum, Physical Review A, Quantum, Communications in Mathematical Physics, npj Quantum Information, ACM Transactions on Quantum Computing, TheoretiCS
-
-# Teaching
-
-- Teaching fellow, CS 2243: Algorithms for Data Science, SEAS, Harvard University, 2024 Fall
-- Teaching assistant, Abstract Algebra, IIIS, Tsinghua University, 2023 Spring
 
