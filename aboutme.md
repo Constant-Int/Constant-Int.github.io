@@ -21,18 +21,18 @@ Email: wgong [at] g [dot] harvard [dot] edu
 [8] **On the sample complexity of purity and inner product estimation** [[video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
   Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
   arXiv:2410.12712
-  
-[7] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)][[PRXQ](https://link.aps.org/doi/10.1103/PRXQuantum.6.020323)]\
-  Sitan Chen, Weiyuan Gong†\
-  PRX Quantum, QIP 2025
 
-[6] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
+[7] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   Accepted to STOC 2025, QIP 2025 short plenary talk, arXiv:2408.06967
 
-[5] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
+[6] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
   Accepted to ICLR 2025, arXiv:2212.02548
+
+[5] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)][[PRXQ](https://link.aps.org/doi/10.1103/PRXQuantum.6.020323)]\
+  Sitan Chen, Weiyuan Gong†\
+  PRX Quantum, QIP 2025
 
 [4] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
