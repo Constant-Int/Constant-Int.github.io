@@ -27,9 +27,9 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   
 
 ## Publications
-[11] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)]\
+[11] **Efficient Pauli channel estimation with logarithmic quantum memory** [[pdf](https://arxiv.org/abs/2309.14326)][[PRXQ](https://doi.org/10.1103/PRXQuantum.6.020323)]\
   Sitan Chen, Weiyuan Gong†\
-  Accepted to PRX Quantum, QIP 2025, arXiv:2309.14326
+  PRX Quantum, QIP 2025, arXiv:2309.14326
   
 [10] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
