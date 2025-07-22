@@ -27,17 +27,17 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 ## Publications
 
-[11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
+[11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   STOC 2025, QIP 2025 short plenary talk
 
-[10] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[pdf](https://arxiv.org/abs/2212.02548)]\
-  Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
-  Accepted to ICLR 2025, arXiv:2212.02548
-
-[9] **Efficient Pauli channel estimation with logarithmic quantum memory** [[PRXQ](https://doi.org/10.1103/PRXQuantum.6.020323)][[pdf](https://arxiv.org/abs/2309.14326)]\
+[10] **Efficient Pauli channel estimation with logarithmic quantum memory** [[PRXQ](https://doi.org/10.1103/PRXQuantum.6.020323)][[pdf](https://arxiv.org/abs/2309.14326)]\
   Sitan Chen, Weiyuan Gong†\
   PRX Quantum, QIP 2025
+
+[9] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[ICML](https://iclr.cc/virtual/2025/poster/30083)][[pdf](https://arxiv.org/abs/2212.02548)]\
+  Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
+  ICLR 2025
 
 [8] **Optimal tradeoffs for estimating Pauli observables** [[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
@@ -72,7 +72,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong\*, Dong-ling Deng\
   National Science Review, Volume 9, Issue 6, nwab130, 2022
 
-## Notes & Manuscripts
+## Manuscripts
 
 [2] **Adaptivity can help exponentially for shadow tomography** [[pdf](https://arxiv.org/abs/2412.19022)]\
   Sitan Chen, Weiyuan Gong†, Zhihan Zhang\
