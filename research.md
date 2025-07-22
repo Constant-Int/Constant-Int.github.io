@@ -14,11 +14,11 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 
 [3] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)]\
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
-  arXiv:2502.11900
+  arXiv:2502.11900, AQIS 2025 long talk
   
 [2] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
-  arXiv:2410.17718, QIP 2025
+  arXiv:2410.17718, QIP 2025, AQIS 2025 long talk
 
 [1] **On the sample complexity of purity and inner product estimation** [[video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
   Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
@@ -35,7 +35,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Sitan Chen, Weiyuan Gong†\
   PRX Quantum, QIP 2025
 
-[9] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[ICML](https://iclr.cc/virtual/2025/poster/30083)][[pdf](https://arxiv.org/abs/2212.02548)]\
+[9] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[ICLR](https://iclr.cc/virtual/2025/poster/30083)][[pdf](https://arxiv.org/abs/2212.02548)]\
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
   ICLR 2025
 
