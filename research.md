@@ -16,18 +16,18 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
   arXiv:2502.11900, AQIS 2025 long talk
   
-[2] **Exponential Separation between Quantum Learning with and without Purification** [[video](https://www.youtube.com/watch?v=2UxtF2R1R2Y)][[pdf](https://arxiv.org/abs/2410.17718)]\
+[2] **Exponential Separation between Quantum Learning with and without Purification** [[qip-video](https://www.youtube.com/watch?v=2UxtF2R1R2Y)][[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
   arXiv:2410.17718, QIP 2025, AQIS 2025 long talk
 
-[1] **On the sample complexity of purity and inner product estimation** [[video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
+[1] **On the sample complexity of purity and inner product estimation** [[long-video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
   Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
   arXiv:2410.12712
   
 
 ## Publications
 
-[11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[qip-video](https://www.youtube.com/watch?v=9Ae8JKreXwU)][[video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
+[11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[qip-video](https://www.youtube.com/watch?v=9Ae8JKreXwU)][[long-video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   STOC 2025, QIP 2025 short plenary talk
 
@@ -39,7 +39,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
   ICLR 2025
 
-[8] **Optimal tradeoffs for estimating Pauli observables** [[qip-video](https://www.youtube.com/watch?v=jNdo1kBEn2A)][[video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
+[8] **Optimal tradeoffs for estimating Pauli observables** [[qip-video](https://www.youtube.com/watch?v=jNdo1kBEn2A)][[focs-video](https://www.youtube.com/watch?v=hgrToofYOtA)][[FOCS](https://ieeexplore.ieee.org/document/10756089)][[pdf](https://arxiv.org/abs/2404.19105)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye\
   FOCS 2024, QIP 2025\
   [[Quanta Magazine](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)][[Wired Magazine](https://www.wired.com/story/quantum-memory-proves-exponentially-powerful/)]
