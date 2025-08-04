@@ -8,13 +8,9 @@ cover-img: /assets/img/scene_4.jpg
 Authors are usually listed in the alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *.
 
 ## Preprints
-[4] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
+[3] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
   Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
   arXiv:2505.22743
-
-[3] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)]\
-  Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
-  arXiv:2502.11900, AQIS 2025 long talk
   
 [2] **Exponential Separation between Quantum Learning with and without Purification** [[qip-video](https://www.youtube.com/watch?v=2UxtF2R1R2Y)][[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
@@ -26,6 +22,9 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   
 
 ## Publications
+[12] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)]\
+  Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
+  Accepted to PRX Quantum, arXiv:2502.11900, AQIS 2025 long talk
 
 [11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[qip-video](https://www.youtube.com/watch?v=9Ae8JKreXwU)][[long-video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
