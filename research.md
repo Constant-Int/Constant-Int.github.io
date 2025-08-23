@@ -12,7 +12,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
   arXiv:2505.22743
   
-[2] **Exponential Separation between Quantum Learning with and without Purification** [[qip-video](https://www.youtube.com/watch?v=2UxtF2R1R2Y)][[pdf](https://arxiv.org/abs/2410.17718)]\
+[2] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
   arXiv:2410.17718, QIP 2025, AQIS 2025 long talk
 
@@ -26,7 +26,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
   Accepted to PRX Quantum, arXiv:2502.11900, AQIS 2025 long talk
 
-[11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[qip-video](https://www.youtube.com/watch?v=9Ae8JKreXwU)][[long-video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
+[11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[stoc-video]([https://www.youtube.com/watch?v=9Ae8JKreXwU)][[long-video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191](https://www.youtube.com/watch?v=kiIXnqjYdzA&list=PL2200vk1q4pnCq8BwJXwnD6SohMwST6aY&index=49))][[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   STOC 2025, QIP 2025 short plenary talk
 
