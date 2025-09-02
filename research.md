@@ -24,7 +24,7 @@ Authors are usually listed in the alphabetical order for theoretical computer sc
 ## Publications
 [12] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)]\
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
-  Accepted to PRX Quantum, arXiv:2502.11900, AQIS 2025 long talk
+  Accepted to PRX Quantum [*highlight*], arXiv:2502.11900, AQIS 2025 long talk
 
 [11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[stoc-video](https://www.youtube.com/watch?v=kiIXnqjYdzA&list=PL2200vk1q4pnCq8BwJXwnD6SohMwST6aY&index=50)][[long-video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
