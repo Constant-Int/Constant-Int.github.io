@@ -5,9 +5,13 @@ cover-img: /assets/img/scene_4.jpg
 ---
 # Papers
 
-Authors are usually listed in the alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *.
+Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *.
 
 ## Preprints
+[4] **Instance-Optimal Matrix Multiplicative Weight Update and Its Quantum Applications** [[pdf](https://arxiv.org/abs/2509.08911)]\
+  Weiyuan Gong†, Tongyang Li, Xinzhao Wang, Zhiyu Zhang\
+  arXiv:2509.08911
+  
 [3] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
   Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
   arXiv:2505.22743
