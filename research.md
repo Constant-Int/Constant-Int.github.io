@@ -28,7 +28,7 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 ## Publications
 [12] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)][[PRXQ](https://journals.aps.org/prxquantum/abstract/10.1103/j7b8-pb77)]\
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
-  PRX Quantum [*highlight*], AQIS 2025 long talk
+  PRX Quantum 6, 040315 [*highlight*], AQIS 2025 long talk
 
 [11] **Stabilizer bootstrapping: A recipe for efficient agnostic tomography and magic estimation** [[stoc-video](https://www.youtube.com/watch?v=kiIXnqjYdzA&list=PL2200vk1q4pnCq8BwJXwnD6SohMwST6aY&index=50)][[long-video](https://www.youtube.com/watch?v=7Mu3L18Ekag)][[STOC](https://dl.acm.org/doi/10.1145/3717823.3718191)][[pdf](https://arxiv.org/abs/2408.06967)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
@@ -36,7 +36,7 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 [10] **Efficient Pauli channel estimation with logarithmic quantum memory** [[qip-video](https://www.youtube.com/watch?v=7wPdj6oF1KA)][[PRXQ](https://doi.org/10.1103/PRXQuantum.6.020323)][[pdf](https://arxiv.org/abs/2309.14326)]\
   Sitan Chen, Weiyuan Gong†\
-  PRX Quantum, QIP 2025
+  PRX Quantum 6, 020323, QIP 2025
 
 [9] **Robustness of Quantum Algorithms for Nonconvex Optimization** [[ICLR](https://iclr.cc/virtual/2025/poster/30083)][[pdf](https://arxiv.org/abs/2212.02548)]\
   Weiyuan Gong\*, Chenyi Zhang\*, Tongyang Li\
