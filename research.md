@@ -7,7 +7,11 @@ cover-img: /assets/img/scene_4.jpg
 
 Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *.
 
-## Preprints
+## Preprints & Submissions
+[5]**Reconstructing Hamiltonians using only the Z-basis**\
+  Sitan Chen, Jordan Cotler, Weiyuan Gong†, Hsin-Yuan Huang, Muzhou Ma\
+  Submitted
+
 [4] **Instance-Optimal Matrix Multiplicative Weight Update and Its Quantum Applications** [[pdf](https://arxiv.org/abs/2509.08911)]\
   Weiyuan Gong†, Tongyang Li, Xinzhao Wang, Zhiyu Zhang\
   arXiv:2509.08911
