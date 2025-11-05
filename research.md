@@ -8,7 +8,7 @@ cover-img: /assets/img/scene_4.jpg
 Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *.
 
 ## Preprints & Submissions
-[5]**Reconstructing Hamiltonians using only the Z-basis**\
+[5] **Reconstructing Hamiltonians using only the Z-basis**\
   Sitan Chen, Jordan Cotler, Weiyuan Gong†, Hsin-Yuan Huang, Muzhou Ma\
   Submitted
 
