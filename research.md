@@ -9,7 +9,7 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 ## Preprints & Submissions
 
-[7] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**\
+[7] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**[[pdf](https://arxiv.org/abs/2602.04952)]\
   Senrui Chen, Weiyuan Gong†, and Sisi Zhou\
   arXiv:2602.04952
 
