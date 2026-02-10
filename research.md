@@ -9,11 +9,11 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 ## Preprints & Submissions
 
-[7] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**[[pdf](https://arxiv.org/abs/2602.04952)]\
+[7] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2602.04952)]\
   Senrui Chen, Weiyuan Gong†, and Sisi Zhou\
   arXiv:2602.04952
 
-[6] **Time-Dependent Hamiltonian Simulation in the Low-Energy Subspace**[[pdf](https://arxiv.org/abs/2601.01550)]\
+[6] **Time-Dependent Hamiltonian Simulation in the Low-Energy Subspace** [[pdf](https://arxiv.org/abs/2601.01550)]\
   Shuo Zhou, Zhaokai Pan, Weiyuan Gong, and Tongyang Li\
   arXiv:2601.01550
 
