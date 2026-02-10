@@ -27,7 +27,7 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
   
 [3] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
   Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
-  Accepted to QIP 2026, arXiv:2505.22743
+  QIP 2026, arXiv:2505.22743
   
 [2] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
