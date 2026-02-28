@@ -4,7 +4,7 @@ title: About me
 cover-img: /assets/img/scene_2.jpg
 ---
 
-My name is Weiyuan Gong (龚维元), and I'm currently a graduate student at John A. Paulson School of Engineering and Applied Sciences at Harvard University, where I have the privilege of working with [Prof. Sitan Chen](https://sitanchen.com/). My research primarily focuses on the applications of theory for machine learning and computer science in the physical world. Prior to my studies at Harvard, I completed my Bachelor of Engineering at Institute for Interdisciplinary Information Sciences (Yao Class), Tsinghua University, under the guidance of [Prof. Dong-Ling Deng](https://iiis.tsinghua.edu.cn/rydw/qzjs/dengdongling.htm).
+My name is Weiyuan Gong (龚维元), and I'm currently a graduate student at Harvard SEAS, where I have the privilege of working with [Prof. Sitan Chen](https://sitanchen.com/). My research primarily focuses on the applications of theory for machine learning and computer science in the physical world. Prior to my studies at Harvard, I completed my B.E. at IIIS (Yao Class), Tsinghua University, under the guidance of [Prof. Dong-Ling Deng](https://iiis.tsinghua.edu.cn/en/People/Faculty/DengDongling.htm).
 
 Email: wgong [at] g [dot] harvard [dot] edu
 
