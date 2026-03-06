@@ -9,7 +9,7 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 ## Preprints & Submissions
 
-[8] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2603.05492)]\
+[8] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
   Petr Ivashkov\*, Nikita Romanov\*, Weiyuan Gong, Andi Gu, Hong-Ye Hu, and Susanne F. Yelin\
   arXiv:2603.05492
 
