@@ -7,42 +7,37 @@ cover-img: /assets/img/scene_4.jpg
 
 Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *.
 
-## Preprints & Submissions
+## Selected preprints
 
-[8] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
+[6] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
   Petr Ivashkov\*, Nikita Romanov\*, Weiyuan Gong, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
   arXiv:2603.05492
 
-[7] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2602.04952)]\
+[5] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2602.04952)]\
   Senrui Chen, Weiyuan Gong†, Sisi Zhou\
   arXiv:2602.04952
 
-[6] **Time-Dependent Hamiltonian Simulation in the Low-Energy Subspace** [[pdf](https://arxiv.org/abs/2601.01550)]\
-  Shuo Zhou, Zhaokai Pan, Weiyuan Gong, Tongyang Li\
-  arXiv:2601.01550
-
-[5] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)]\
+[4] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)]\
   Jordan Cotler, Weiyuan Gong†, Ishaan Kannan\
   arXiv:2512.10929
 
-[4] **Instance-Optimal Matrix Multiplicative Weight Update and Its Quantum Applications** [[pdf](https://arxiv.org/abs/2509.08911)]\
+[3] **Instance-Optimal Matrix Multiplicative Weight Update and Its Quantum Applications** [[pdf](https://arxiv.org/abs/2509.08911)]\
   Weiyuan Gong†, Tongyang Li, Xinzhao Wang, Zhiyu Zhang\
   arXiv:2509.08911
   
-[3] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
+[2] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
   Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
   arXiv:2505.22743，QIP 2026
   
-[2] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
+[1] **Exponential Separation between Quantum Learning with and without Purification** [[pdf](https://arxiv.org/abs/2410.17718)]\
   Zhenhuan Liu\*, Weiyuan Gong\*, Zhenyu Du\*, Zhenyu Cai\
   arXiv:2410.17718, QIP 2025, AQIS 2025 long talk
 
-[1] **On the sample complexity of purity and inner product estimation** [[long-video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
-  Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
-  arXiv:2410.12712
-  
-
 ## Selected Publications
+[9] **On the sample complexity of purity and inner product estimation** [[long-video](https://www.youtube.com/watch?v=2DDmUWwtY_s)][[pdf](https://arxiv.org/abs/2410.12712)]\
+  Weiyuan Gong†, Jonas Haferkamp, Qi Ye, Zhihan Zhang\
+  Accepted to Phys. Rev. Res., arXiv:2410.12712
+  
 [8] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)][[PRXQ](https://journals.aps.org/prxquantum/abstract/10.1103/j7b8-pb77)]\
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
   PRX Quantum 6, 040315 [*Highlights*], AQIS 2025 long talk\
@@ -77,10 +72,8 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
   Weiyuan Gong\*, Dong-ling Deng\
   National Science Review, Volume 9, Issue 6, nwab130, 2022
 
-## Manuscripts
+## Others
 
-[1] **Adaptivity can help exponentially for shadow tomography** [[pdf](https://arxiv.org/abs/2412.19022)]\
-  Sitan Chen, Weiyuan Gong†, Zhihan Zhang\
-  arXiv:2412.19022
+- A [[note](https://arxiv.org/abs/2412.19022)]\ showing an exponential separation between adaptive and non-adaptive quantum learning protocols (joint with Sitan Chen and Zhihan Zhang).
 
 
