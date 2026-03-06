@@ -74,6 +74,6 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 ## Others
 
-- A [[note](https://arxiv.org/abs/2412.19022)]\ showing an exponential separation between adaptive and non-adaptive quantum learning protocols (joint with Sitan Chen and Zhihan Zhang).
+- A [note](https://arxiv.org/abs/2412.19022) showing an exponential separation between adaptive and non-adaptive quantum learning protocols (joint with Sitan Chen and Zhihan Zhang).
 
 
