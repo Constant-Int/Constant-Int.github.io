@@ -10,15 +10,15 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 ## Preprints & Submissions
 
 [8] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
-  Petr Ivashkov\*, Nikita Romanov\*, Weiyuan Gong, Andi Gu, Hong-Ye Hu, and Susanne F. Yelin\
+  Petr Ivashkov\*, Nikita Romanov\*, Weiyuan Gong, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
   arXiv:2603.05492
 
 [7] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2602.04952)]\
-  Senrui Chen, Weiyuan Gong†, and Sisi Zhou\
+  Senrui Chen, Weiyuan Gong†, Sisi Zhou\
   arXiv:2602.04952
 
 [6] **Time-Dependent Hamiltonian Simulation in the Low-Energy Subspace** [[pdf](https://arxiv.org/abs/2601.01550)]\
-  Shuo Zhou, Zhaokai Pan, Weiyuan Gong, and Tongyang Li\
+  Shuo Zhou, Zhaokai Pan, Weiyuan Gong, Tongyang Li\
   arXiv:2601.01550
 
 [5] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)]\
