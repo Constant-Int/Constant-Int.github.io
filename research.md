@@ -5,7 +5,7 @@ cover-img: /assets/img/scene_4.jpg
 ---
 # Papers
 
-Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *. The full list of my publications is in [[Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en)].
+Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *. The full list of my publications is in [Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en).
 
 ## Selected preprints
 
