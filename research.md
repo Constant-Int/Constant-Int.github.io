@@ -9,13 +9,10 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 ## Selected preprints
 
-[3] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
+[2] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
   Petr Ivashkov\*, Nikita Romanov\*, Weiyuan Gong, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
   arXiv:2603.05492
 
-[2] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)]\
-  Jordan Cotler, Weiyuan Gong†, Ishaan Kannan\
-  arXiv:2512.10929
 
 [1] **Instance-Optimal Matrix Multiplicative Weight Update and Its Quantum Applications** [[pdf](https://arxiv.org/abs/2509.08911)]\
   Weiyuan Gong†, Tongyang Li, Xinzhao Wang, Zhiyu Zhang\
@@ -23,6 +20,10 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
   
 
 ## Selected Publications
+[9] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)]\
+  Jordan Cotler, Weiyuan Gong†, Ishaan Kannan\
+  Accepted to Nat. Commun., arXiv:2512.10929
+  
 [8] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
   Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
   Accepted to COLT 2026, arXiv:2505.22743，QIP 2026
