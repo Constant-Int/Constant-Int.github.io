@@ -11,4 +11,4 @@ Email: wgong [at] g [dot] harvard [dot] edu
 
 ## Miscellaneous
 
-I have a passion for driving, swimming, and playing table tennis. As the leader and co-founder of the table tennis team at IIIS, I enthusiastically welcome opportunities to play! Additionally, I take great joy in spending time with my significant other, whom I affectionately refer to as my 'potato kitty'. I’m grateful to my potato kitty for helping me polish my homepage.
+I was the leader and co-founder of the table tennis team at IIIS. Additionally, I take great joy in spending time with my significant other, whom I affectionately refer to as my 'potato kitty'. I’m grateful to my potato kitty for helping me polish my homepage.
