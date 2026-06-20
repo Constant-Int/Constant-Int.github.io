@@ -5,14 +5,20 @@ cover-img: /assets/img/scene_4.jpg
 ---
 # Papers
 
-Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by *. The full list of my publications is provided in my [Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en) website.
+Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by * and ‡. The full list of my publications is provided in my [Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en) website.
 
 ## Selected preprints
+[4] **Optimal Ansatz-free Hamiltonian Learning In Situ** [[pdf](https://arxiv.org/abs/2606.19486)]\
+  Taiqi Zhou, Weiyuan Gong‡\
+  arXiv:2606.19486
+
+[3] **Learning Arbitrary Lindbladians with Quantum Error Correction** [[pdf](https://arxiv.org/abs/2606.18188)]\
+  Nikita Romanov, Petr Ivashkov, Weiyuan Gong, Ishaan Kannan, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
+  arXiv:2606.18188
 
 [2] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
   Petr Ivashkov\*, Nikita Romanov\*, Weiyuan Gong, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
   arXiv:2603.05492
-
 
 [1] **Instance-Optimal Matrix Multiplicative Weight Update and Its Quantum Applications** [[pdf](https://arxiv.org/abs/2509.08911)]\
   Weiyuan Gong†, Tongyang Li, Xinzhao Wang, Zhiyu Zhang\
