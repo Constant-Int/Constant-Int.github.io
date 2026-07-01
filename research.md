@@ -29,14 +29,14 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 [9] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)]\
   Jordan Cotler, Weiyuan Gong†, Ishaan Kannan\
   Accepted to Nat. Commun., arXiv:2512.10929
-  
-[8] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)]\
-  Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
-  Accepted to COLT 2026, arXiv:2505.22743，QIP 2026
-  
-[7] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2602.04952)]\
+
+[8] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2602.04952)][[COLT](https://proceedings.mlr.press/v336/chen26c.html)]\
   Senrui Chen, Weiyuan Gong†, Sisi Zhou\
-  Accepted to COLT 2026, arXiv:2602.04952
+  COLT 2026
+  
+[7] **Information-Computation Gaps in Quantum Learning via Low-Degree Likelihood** [[pdf](https://arxiv.org/abs/2505.22743)][[COLT](https://proceedings.mlr.press/v336/chen26d.html)]\
+  Sitan Chen, Weiyuan Gong†, Jonas Haferkamp, Yihui Quek\
+  COLT 2026，QIP 2026
   
 [6] **Ansatz-free Hamiltonian learning with Heisenberg-limited scaling** [[pdf](https://arxiv.org/abs/2502.11900)][[PRXQ](https://journals.aps.org/prxquantum/abstract/10.1103/j7b8-pb77)]\
   Hong-Ye Hu\*, Muzhou Ma\*, Weiyuan Gong, Qi Ye, Yu Tong, Steven T. Flammia, Susanne F. Yelin\
