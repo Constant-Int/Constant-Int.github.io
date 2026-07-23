@@ -34,9 +34,9 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
   
 
 ## Selected Publications
-[9] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)]\
+[9] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)][[NC](https://www.nature.com/articles/s41467-026-73693-x)]\
   Jordan Cotler, Weiyuan Gong†, Ishaan Kannan\
-  Accepted to Nat. Commun., arXiv:2512.10929
+  Nat. Commun. 17, 6979
 
 [8] **Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach** [[pdf](https://arxiv.org/abs/2602.04952)][[COLT](https://proceedings.mlr.press/v336/chen26c.html)]\
   Senrui Chen, Weiyuan Gong†, Sisi Zhou\
