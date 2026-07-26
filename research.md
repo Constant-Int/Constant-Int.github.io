@@ -9,7 +9,7 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 ## Selected preprints
 [6] **Quantum memory advantage for quantum process tomography** [[pdf](https://arxiv.org/abs/2607.13476)]\
-  Carlos Bravo-Prieto, Weiyuan Gong†, Antonio Anna Mele†\
+  Carlos Bravo-Prieto, Weiyuan Gong†, Antonio Anna Mele\
   arXiv:2607.13476
 
 [5] **The log log jam in Gaussian state tomography** [[pdf](https://arxiv.org/abs/2607.12983)]\
