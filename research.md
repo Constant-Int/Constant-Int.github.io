@@ -8,6 +8,10 @@ cover-img: /assets/img/scene_4.jpg
 Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by * and ‡. The full list of my publications is provided in my [Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en) website.
 
 ## Selected preprints
+[7] **Optimal Ansatz-free Hamiltonian Learning In Situ** [[pdf](https://arxiv.org/abs/2607.23044)]\
+  Taiqi Zhou, Weiyuan Gong‡\
+  arXiv:2607.23044
+  
 [6] **Quantum memory advantage for quantum process tomography** [[pdf](https://arxiv.org/abs/2607.13476)]\
   Carlos Bravo-Prieto, Weiyuan Gong†, Antonio Anna Mele\
   arXiv:2607.13476
