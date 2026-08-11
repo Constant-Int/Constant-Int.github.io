@@ -8,6 +8,10 @@ cover-img: /assets/img/scene_4.jpg
 Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by * and ‡. The full list of my publications is provided in my [Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en) website.
 
 ## Selected preprints
+[8] **Provably Efficient Self-Calibrating Quantum Fault Tolerance** [[pdf](https://arxiv.org/abs/2608.05686)]\
+  Weiyuan Gong\*, Hong-Ye Hu\
+  arXiv:2608.05686
+
 [7] **Characterizing Arbitrary Lindbladian Dynamics with a Few Pauli Measurements** [[pdf](https://arxiv.org/abs/2607.23044)]\
   Taiqi Zhou, Weiyuan Gong‡\
   arXiv:2607.23044
