@@ -8,25 +8,21 @@ cover-img: /assets/img/scene_4.jpg
 Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by * and ‡. The full list of my publications is provided in my [Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en) website.
 
 ## Selected preprints
-[8] **Provably Efficient Self-Calibrating Quantum Fault Tolerance** [[pdf](https://arxiv.org/abs/2608.05686)]\
+[7] **Provably Efficient Self-Calibrating Quantum Fault Tolerance** [[pdf](https://arxiv.org/abs/2608.05686)]\
   Weiyuan Gong\*, Hong-Ye Hu\
   arXiv:2608.05686
 
-[7] **Characterizing Arbitrary Lindbladian Dynamics with a Few Pauli Measurements** [[pdf](https://arxiv.org/abs/2607.23044)]\
+[6] **Characterizing Arbitrary Lindbladian Dynamics with a Few Pauli Measurements** [[pdf](https://arxiv.org/abs/2607.23044)]\
   Taiqi Zhou, Weiyuan Gong‡\
   arXiv:2607.23044
   
-[6] **Quantum memory advantage for quantum process tomography** [[pdf](https://arxiv.org/abs/2607.13476)]\
+[5] **Quantum memory advantage for quantum process tomography** [[pdf](https://arxiv.org/abs/2607.13476)]\
   Carlos Bravo-Prieto, Weiyuan Gong†, Antonio Anna Mele\
   arXiv:2607.13476
 
-[5] **The log log jam in Gaussian state tomography** [[pdf](https://arxiv.org/abs/2607.12983)]\
+[4] **The log log jam in Gaussian state tomography** [[pdf](https://arxiv.org/abs/2607.12983)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   arXiv:2607.12983
-
-[4] **Optimal Ansatz-free Hamiltonian Learning In Situ** [[pdf](https://arxiv.org/abs/2606.19486)]\
-  Taiqi Zhou, Weiyuan Gong‡\
-  arXiv:2606.19486
 
 [3] **Learning Arbitrary Lindbladians with Quantum Error Correction** [[pdf](https://arxiv.org/abs/2606.18188)]\
   Nikita Romanov, Petr Ivashkov, Weiyuan Gong, Ishaan Kannan, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
@@ -42,6 +38,10 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
   
 
 ## Selected Publications
+[10] **Optimal Ansatz-free Hamiltonian Learning In Situ** [[pdf](https://arxiv.org/abs/2606.19486)]\
+  Taiqi Zhou, Weiyuan Gong‡\
+  Accepted to NeurIPS 2026, arXiv:2606.19486
+
 [9] **Noisy Quantum Learning Theory** [[pdf](https://arxiv.org/abs/2512.10929)][[NC](https://www.nature.com/articles/s41467-026-73693-x)]\
   Jordan Cotler, Weiyuan Gong†, Ishaan Kannan\
   Nat. Commun. 17, 6979
