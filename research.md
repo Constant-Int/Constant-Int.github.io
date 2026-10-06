@@ -7,38 +7,38 @@ cover-img: /assets/img/scene_4.jpg
 
 Authors are usually listed in alphabetical order for theoretical computer science papers (marked by †). Authors listed by contribution are marked by * and ‡. The full list of my publications is provided in my [Google Scholar](https://scholar.google.com/citations?user=Ha_ETbQAAAAJ&hl=en) website.
 
-## Selected preprints
-[8] **Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements** [[pdf](https://arxiv.org/abs/2610.02031)]\
+## Recent preprints
+[8] **Out-of-control Hamiltonian Learning** [[pdf](https://arxiv.org/abs/2610.06709)]\
+  Weiyuan Gong*, Muzhou Ma*, Sitan Chen, Jordan Cotler, Hsin-Yuan Huang\
+  arXiv:2610.06709
+
+[7] **Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements** [[pdf](https://arxiv.org/abs/2610.02031)]\
   Lennart Bittel, Jens Eisert, Weiyuan Gong†, Antonio Anna Mele, Louis Schatzki\
   arXiv:2610.02031
 
-[7] **Provably Efficient Self-Calibrating Quantum Fault Tolerance** [[pdf](https://arxiv.org/abs/2608.05686)]\
+[6] **Provably Efficient Self-Calibrating Quantum Fault Tolerance** [[pdf](https://arxiv.org/abs/2608.05686)]\
   Weiyuan Gong\*, Hong-Ye Hu\
   arXiv:2608.05686
 
-[6] **Characterizing Arbitrary Lindbladian Dynamics with a Few Pauli Measurements** [[pdf](https://arxiv.org/abs/2607.23044)]\
+[5] **Characterizing Arbitrary Lindbladian Dynamics with a Few Pauli Measurements** [[pdf](https://arxiv.org/abs/2607.23044)]\
   Taiqi Zhou, Weiyuan Gong‡\
   arXiv:2607.23044
   
-[5] **Quantum memory advantage for quantum process tomography** [[pdf](https://arxiv.org/abs/2607.13476)]\
+[4] **Quantum memory advantage for quantum process tomography** [[pdf](https://arxiv.org/abs/2607.13476)]\
   Carlos Bravo-Prieto, Weiyuan Gong†, Antonio Anna Mele\
   arXiv:2607.13476
 
-[4] **The log log jam in Gaussian state tomography** [[pdf](https://arxiv.org/abs/2607.12983)]\
+[3] **The log log jam in Gaussian state tomography** [[pdf](https://arxiv.org/abs/2607.12983)]\
   Sitan Chen, Weiyuan Gong†, Qi Ye, Zhihan Zhang\
   arXiv:2607.12983
 
-[3] **Learning Arbitrary Lindbladians with Quantum Error Correction** [[pdf](https://arxiv.org/abs/2606.18188)]\
+[2] **Learning Arbitrary Lindbladians with Quantum Error Correction** [[pdf](https://arxiv.org/abs/2606.18188)]\
   Nikita Romanov, Petr Ivashkov, Weiyuan Gong, Ishaan Kannan, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
   arXiv:2606.18188
 
-[2] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
+[1] **Ansatz-Free Learning of Lindbladian Dynamics In Situ** [[pdf](https://arxiv.org/abs/2603.05492)]\
   Petr Ivashkov\*, Nikita Romanov\*, Weiyuan Gong, Andi Gu, Hong-Ye Hu, Susanne F. Yelin\
   arXiv:2603.05492
-
-[1] **Instance-Optimal Matrix Multiplicative Weight Update and Its Quantum Applications** [[pdf](https://arxiv.org/abs/2509.08911)]\
-  Weiyuan Gong†, Tongyang Li, Xinzhao Wang, Zhiyu Zhang\
-  arXiv:2509.08911
   
 
 ## Selected Publications
