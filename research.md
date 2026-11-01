@@ -9,7 +9,7 @@ Authors are usually listed in alphabetical order for theoretical computer scienc
 
 ## Recent preprints
 [8] **Out-of-control Hamiltonian Learning** [[pdf](https://arxiv.org/abs/2610.06709)]\
-  Weiyuan Gong*, Muzhou Ma*, Sitan Chen, Jordan Cotler, Hsin-Yuan Huang\
+  Weiyuan Gong\*, Muzhou Ma\*, Sitan Chen, Jordan Cotler, Hsin-Yuan Huang\
   arXiv:2610.06709
 
 [7] **Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements** [[pdf](https://arxiv.org/abs/2610.02031)]\
